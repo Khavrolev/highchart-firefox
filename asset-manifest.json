@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/highchart-firefox/static/js/main.98e55268.js",
+    "index.html": "/highchart-firefox/index.html",
+    "main.98e55268.js.map": "/highchart-firefox/static/js/main.98e55268.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.98e55268.js"
+  ]
+}
